@@ -100,5 +100,5 @@ export HELLO="Hello World"
 ```
 
 ## Other useful references
-[Command-line options](http://www.catb.org/esr/writings/taoup/html/ch10s05.html)
+[Command-line options](http://www.catb.org/esr/writings/taoup/html/ch10s05.html)]  
 [Run UNIX/LINUX commands in Windows](http://testingfreak.com/run-unixlinux-commands-in-windows/)
